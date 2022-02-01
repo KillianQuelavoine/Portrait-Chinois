@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Killian Quelavoine - Portrait Chinois</title>
+        <!-- Liaison du CSS au HTML  -->
+    <link rel="stylesheet" href="styles.css">
+        <!-- Liens pour les google fonts utilisées -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Itim&family=Rubik:wght@300;400&display=swap" rel="stylesheet">
+</head>
+<!-- Class qui permet de ne pas pouvoir scroll quand on est sur la première page -->
+<body class="no-scroll">
+
+
+<!-- HEADER -->
+    <header>
+
+        <!-- ENTRÉE DU SITE -->
+        <section class="entrer">
+            <div class="headerEntrer">
+                <div class="nom">
+                    <h1>KILLIAN QUELAVOINE</h1>
+                </div>
+                <div class="texte">
+                    <p>
+                        Tu veux savoir qui je suis ? <br> Alors viens c'est par ici !
+                    </p>
+                </div>
+                <div class="ConteneurBoutonEntrer">
+                    <h2 id="BoutonEntrer">ENTRER</h2> <!--Creation d'un bouton entrer pour accéder au site-->
+                </div>
+
+            </div>
+        </section>
+        <!-- FIN D'ENTRÉE DU SITE -->
+
+    <!-- PRÉSENTATION DU PROJET  -->
+        <section>
+            <div class="headerPresentation">
+                <div class="nom">
+                    <h1>KILLIAN QUELAVOINE</h1>
+                </div>
+                <div class="texte">
+                    <p>
+                        Pour un projet de ma formation, la MMI, j'ai pour consigne de réaliser un portrait chinois sous forme de site web en une seule page. Un portrait chinois est une façon originale de se présenter, en effet, cela conciste à se représenter à travers diverse
+                        analogies, on peut se présenter à l'aide d'objets, de couleurs, de musique, et il y a des miliers d'autre exemples, c'est notre personnalité qui parle à notre place. C'est ici que commence votre aventure dans mon monde, alors...
+                    </p>
+                </div>
+                <div class="titre">
+                    <h1>BIENVENUE !</h1>
+                </div>
+            </div>
+        </section>
+        <!-- FIN DE PRÉSENTATION DU PROJET  -->
+
+    </header>
+<!-- FIN HEADER -->
+
+    <!-- LA PARTIE PORTRAIT CHINOIS -->
+
+    <div class="portrait-chinois" id="bloc"></div> <!--Les éléments de fichier analogie.json seront créé ici dans la div-->
+
+    <!-- FIN DE LA PARTIE PORTRAIT CHINOIS -->
+    
+    <!-- INTRODUCTION AU FORMULAIRE -->
+    <section class="formsection">
+        <div class="conteneurIntro">
+            <h1>C’EST TON TOUR !</h1>
+            <p>Toi aussi créer ta page sur mon site web<br> facilement en répondant à ces questions !</p>
+            <div class="bouton">
+                <div class="cliqueBouton">CLIQUE ICI !</div>
+            </div>
+        </div>
+    <!-- FIN DE L'INTRODUCTION AU FORMULAIRE -->
+
+
+        <!-- LE FORMULAIRE -->
+        <form class="mask" id="formulairejs">
+            <div class="formulaire">
+                <a id="fermer">&times;</a>
+                <h1>Alors, présente toi !</h1>
+                <div class="liste">
+                    <input type="text" name="mail" id="mail1" placeholder="Entrez votre mail :">
+                    <input type="text" name="analogie" id="analogie1" placeholder="Si j’étais :">
+                    <input type="text" name="valeurAnalogie" id="valeur1" placeholder="Je serais :">
+                    <input type="text" name="justification" id="justification1" placeholder="Justification :">
+                    <input type="text" name="image" id="image1" placeholder="Image : (url)">
+                    <input type="button" value="ENVOYER" id="boutonEnvoyer">
+                    <div id="messageApresEnvoi"></div>
+                </div>
+            </div>
+        </form>
+        <!-- FIN DU FORMULAIRE -->
+<!-- DANS LE FOOTER : -->
+    </section>
+<!-- FIN DU FOOTER : -->
+<section class="volet-invisible volet" id="volet">
+    <footer>
+
+        <!-- LES MENTIONS LEGALES -->
+        <div class="mention">
+            <h1> Mentions Légales</h1>
+            <p> Mentions Légales :
+                <br> Informations éditeur : 
+                <br> Projet réalisé par Killian Quelavoine
+                <br> 2 rue Albert Einstein, 77420 Champs-sur-Marne, France
+                <br> Conception graphique et images : Quelavoine Killian pour le fond, Deviantart pour les illustrations
+            <br>
+            Informations hébergeur : 
+            <br> Identité : Université Gustave Eiffel
+            <br> Adresse : 2 rue Albert Einstein, 77420 Champs-sur-Marne, France
+            <br> Téléphone : +33 (0)1 60 95 75 00
+            <br> Adresse mail : webmaster@univ-eiffel.fr
+            <br> Conformément à l'article 15 du Règlement général sur la protection des données (RGPD) du 27 avril 2016, vous disposez d'un droit d'accès aux informations vous concernant. Si vous trouvez que ces informations sont incorrectes, l'article 16 du RGPD vous permet de les modifier ou de les supprimer. Dans ce cas, merci de contacter le Directeur de la Communication : com@univ-eiffel.fr.
+            <br> Pour toute question relative à la collecte ou au traitement de vos données personnelles par le site web, vous pouvez contacter le responsable de la protection des données du projet : philippe.gambette@univ-eiffel.fr.
+            <br> Les fichiers détenus par l'Université Gustave Eiffel et Philippe Gambette qui comportent des données à caractère personnel ne seront jamais transmis à des tiers et ne feront jamais l'objet d'une commercialisation.
+            <br> Lors de la consultation du site, des cookies sont déposés sur votre ordinateur, votre mobile ou votre tablette.
+            <br> Modalités de traitement des données à caractère personnel: 
+                L’utilisation de l’API lors du remplissage du formulaire récupérera les données de l'adresse
+                courriel rentré et l’adresse IP de l'utilisateur. Ces données seront conservées pendant un an au
+                maximum
+                Pour toute question relative à la collecte ou au traitement de vos données personnelles par le site
+                web, vous pouvez contacter le responsable de la protection des données du projet :
+                philippe.gambette@univ-eiffel.fr.
+                Les données seront supprimées durant l’été qui suivra de janvier 2022.
+                Les fichiers détenus par l'Université Gustave Eiffel et Philippe Gambette qui comportent des
+                données à caractère personnel ne seront jamais transmis à des tiers et ne feront jamais l'objet
+                d'une commercialisation.
+            </p>
+        </div>
+        <!-- FIN DES MENTIONS LEGALES -->
+
+    </footer>
+</section>
+
+    
+
+    <!-- LIAISON JAVA SCRIPT -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+    <!-- ... -->
+    
+</body>
+
+</html>

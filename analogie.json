@@ -1,0 +1,63 @@
+[{
+        "analogie": "un personnage de dessin animé",
+        "valeur": "Jim Hawkins",
+        "image": "img/Jim_Hawkins.jpg",
+        "classjustification": "imgjustif",
+        "justification": "Jim Hawkins est tout simplement mon personnage de dessin animé préféré, c'est un garçon attentionné, il adore l'aventure, à la recherche d'indépendance et il est très loyal envers ses proches. Tout droit issu du film la planète au trésor, sa personnalité me correspond bien, il veut toujours aller plus loin et atteindre son objectif principal."
+    },
+
+
+    {
+        "analogie": "une boisson",
+        "valeur": "le thé",
+        "image": "img/Thé.jpg",
+        "classjustification": "imgjustif-even",
+        "justification": "Le thé est pour commencer, ma boisson préférée, mais c’est aussi la boisson de la détente. Après une longue journée de travail, rien de mieux que de se poser autour d’une table et de discuter avec nos proches en buvant un thé tous ensemble, cela permet de nous déconnecter et d’oublier pour quelques instants, la journée et nos responsabilités."
+    },
+
+
+    {
+        "analogie": "un animal",
+        "valeur": "un chat",
+        "image": "img/Chat.jpg",
+        "classjustification": "imgjustif",
+        "justification": "Le chat a une vie de rêve, il peut passer ses journées à dormir, il n’a besoin de se soucier de rien. De plus, le chat est très agile, il peut se promener presqu'où il veut, il peut s’aventurer partout, tout en étant nourri et logé. En rentrant le soir il retrouvera sa famille qui pourra répondre à tout ses besoins d’attention en lui faisant des calins."
+    },
+
+
+    {
+        "analogie": "une ville",
+        "valeur": "Paris",
+        "image": "img/Paris.jpg",
+        "classjustification": "imgjustif-even",
+        "justification": "Paris, comment passer à côté de la ville de l’amour, la cité de la romance, ses beaux paysages et sa belle histoire ? On ne peut qu'aimer Paris. Une des villes les plus visitée du monde, des choses différentes à faire dans chaques rues, en constante évolution, Paris est la ville de rêve pour quiconque souhaitant voyager et découvrir des choses."
+    },
+
+
+    {
+        "analogie": "une couleur",
+        "valeur": "le vert",
+        "image": "img/Vert.jpg",
+        "classjustification": "imgjustif",
+        "justification": "Le vert, est, comme vous avez dû le comprendre en observant mon site, ma couleur préférée. C'est la couleur qui représente une belle chose, la couleur de l'espoir, et l'espoir est l’un des essences même de la vie. Le vert représente aussi le calme et la sérénité, qui sont deux traits de caractères qui comptent beaucoup pour moi."
+    },
+
+
+    {
+        "analogie": "un Pokémon",
+        "valeur": "Jirachi",
+        "image": "img/Jirachi.jpg",
+        "classjustification": "imgjustif-even",
+        "justification": "Jirachi est comme moi, il passe son temps à dormir, une légende raconte qu'à son réveil, Jirachi réalise n'importe quel souhait inscrit sur les papiers collés sur sa tête. Ma priorité est de rendre mes proches heureux, et donc de réaliser leurs rêves, c’est pour cela que ce Pokémon et moi avons un grand point commun, sans parler du sommeil...zzzzz"
+    },
+
+
+    {
+        "analogie": "un élément",
+        "valeur": "l'eau",
+        "image": "img/Eau.jpg",
+        "classjustification": "imgjustif",
+        "justification": "L’eau, synonyme de calme, de pureté, mais aussi source de réconfort, c'est l'élément le plus paisible de tous, elle a le pouvoir absorber le reflet de toutes les plus belles scènes du monde. Regarder l’eau, sans but précis à part profiter, oublier ses soucis, penser à son avenir, ou simplement rêver, c’est probablement l’une des plus belles activités."
+    }
+
+]
