@@ -1,0 +1,2 @@
+# Portrait-Chinois
+For a project of my formation, the MMI, I have for consignment to realize a Chinese portrait in the form of web site in only one page. A Chinese portrait is an original way to present oneself, indeed, it consists in representing oneself through various analogies, one can present oneself using objects, colors, music, and there are thousands of other examples, it is our personality which speaks in our place.
